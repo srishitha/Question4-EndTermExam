@@ -76,5 +76,6 @@ class Account {
     }
     int debit(Integer debit) {
          return bal = bal - debit;
+         
     }
 }
